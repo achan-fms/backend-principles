@@ -21,3 +21,13 @@ contoh :
 menjadi 
 
 "Barangkali prosesnya adalah insert data"
+
+
+4.Bagaimana pertanyaan yang kita kurang paham ?
+
+contoh : "Kalau bagian itu saya kurang paham"
+
+5. Bagaimana cara menjelaskan konsep yang rumit dengan sederhana mudah dimengerti :
+A. Tunjukkan contoh praktis
+B. Putar otak membuat analogi sederhana
+C. Jelaskan dengan seksama 

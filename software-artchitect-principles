@@ -1,0 +1,7 @@
+Books   : Software Architecture for busy developers
+Journal :
+
+
+Notes : 
+-> Don't overengineer just for the sake of being proud of yourself
+-> Dependency Injection plays a key role in abstracting away concrete classes from their consumers
