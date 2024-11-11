@@ -1,0 +1,6 @@
+
+
+A. Commit & Publish
+1.push your own branch first & avoid git stash for aiming updated code
+2.pull first before publishing libs
+3.if you already publish then re-publish libs after pulling the main branch ( development )
